@@ -1,0 +1,9 @@
+c:\users\bryan.albrecht\documents\visual studio 2013\Projects\NInject_Dependency_Injection\NInject_Dependency_Injection\bin\Debug\NInject_Dependency_Injection.exe.config
+c:\users\bryan.albrecht\documents\visual studio 2013\Projects\NInject_Dependency_Injection\NInject_Dependency_Injection\obj\Debug\NInject_Dependency_Injection.csprojResolveAssemblyReference.cache
+c:\users\bryan.albrecht\documents\visual studio 2013\Projects\NInject_Dependency_Injection\NInject_Dependency_Injection\bin\Debug\NInject_Dependency_Injection.exe
+c:\users\bryan.albrecht\documents\visual studio 2013\Projects\NInject_Dependency_Injection\NInject_Dependency_Injection\bin\Debug\NInject_Dependency_Injection.pdb
+c:\users\bryan.albrecht\documents\visual studio 2013\Projects\NInject_Dependency_Injection\NInject_Dependency_Injection\bin\Debug\Ninject.dll
+c:\users\bryan.albrecht\documents\visual studio 2013\Projects\NInject_Dependency_Injection\NInject_Dependency_Injection\bin\Debug\Ninject.pdb
+c:\users\bryan.albrecht\documents\visual studio 2013\Projects\NInject_Dependency_Injection\NInject_Dependency_Injection\bin\Debug\Ninject.xml
+c:\users\bryan.albrecht\documents\visual studio 2013\Projects\NInject_Dependency_Injection\NInject_Dependency_Injection\obj\Debug\NInject_Dependency_Injection.exe
+c:\users\bryan.albrecht\documents\visual studio 2013\Projects\NInject_Dependency_Injection\NInject_Dependency_Injection\obj\Debug\NInject_Dependency_Injection.pdb
